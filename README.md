@@ -1,1 +1,3 @@
 # Coki-s-Driving-Schol
+
+The Flutter quiz application includes two learning materials, a profile page and an admin panel for quiz creation. The app is linked to Firestore as a database for seamless data storage and retrieval. With this app, users can test their knowledge while also learning new things. Quiz creation and question management are restricted to admins only. The app's user-friendly interface makes it easy to navigate, and the learning materials are designed to promote effective learning. The Flutter quiz app offers a fun and engaging way to test one's knowledge while also enhancing it.
